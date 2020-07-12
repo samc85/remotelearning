@@ -1,0 +1,68 @@
+body {
+    background-image: linear-gradient(#ffffff,#6DD5FA,#ffffff)
+}
+
+
+.good-morning {
+    margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.text-align {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.day {
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 42px;
+    padding-bottom: 42px;
+    border: 2pt solid black;
+    padding-left: 3x;
+    padding-right: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.iframe {
+    margin: 0 auto;
+    
+}
+
+
+.hide {
+    display: none;
+}
+
+
+.hideM {
+    display: none;
+}
+
+.hideT {
+    display: none;
+}
+
+
+.hideW {
+    display: none;
+}
+
+
+.hideTh {
+    display: none;
+}
+
+
+.hideF {
+    display: none;
+}
