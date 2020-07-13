@@ -26,6 +26,9 @@ $(".guessF").click(function(){
 });
 
 
+$(".morn").click(function(){
+  $("#morning").toggle();
+});
 
 
 
