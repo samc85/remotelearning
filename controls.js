@@ -31,7 +31,13 @@ $(".morn").click(function(){
 });
 
 
+$(".lunch").click(function(){
+  $("#middle").toggle();
+});
 
+$(".afternoon").click(function(){
+  $("#arvo").toggle();
+});
 
 
 

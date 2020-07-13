@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(#ffffff,#6DD5FA,#ffffff)
+    background-image: linear-gradient(#ffffff,#6DD5FA,#ffffff, blue)
 }
 
 
@@ -66,3 +66,11 @@ body {
 .hideF {
     display: none;
 }
+
+
+
+#middle {
+    display: none;
+}
+
+#
