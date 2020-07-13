@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(#ffffff,#6DD5FA,#ffffff, blue)
+    background-image: linear-gradient(#ffffff,#6DD5FA,#ffffff, blue);
+    font-family: 'Damion', cursive;
 }
 
 
@@ -73,4 +74,14 @@ body {
     display: none;
 }
 
-#
+#morning {
+    display: none;
+}
+
+#arvo {
+    display: none;
+}
+
+.morn {
+    overflow: hidden;
+}
